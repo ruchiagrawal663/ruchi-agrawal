@@ -1,16 +1,14 @@
 using System;
 using System.ComponentModel.DataAnnotations;
-
 namespace ApexRestaurant.Repository.Domain
  { 
-     public class Customer 
+     public class Staff 
      { 
          [Key]
-         public int Id { get; set; }
+         public int Staff_Id { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public string Address { get; set; }
-        public string PhoneRes { get; set; }
         public string PhoneMob { get; set; }
         public DateTime EnrollDate { get; set; }
         public bool IsActive { get; set; }

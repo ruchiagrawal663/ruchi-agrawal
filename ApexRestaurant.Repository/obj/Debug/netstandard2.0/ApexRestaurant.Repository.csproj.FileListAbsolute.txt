@@ -1,8 +1,8 @@
-D:\ruchi\ApexRestaurant\ApexRestaurant.Repository\bin\Debug\netstandard2.0\ApexRestaurant.Repository.deps.json
-D:\ruchi\ApexRestaurant\ApexRestaurant.Repository\bin\Debug\netstandard2.0\ApexRestaurant.Repository.dll
-D:\ruchi\ApexRestaurant\ApexRestaurant.Repository\bin\Debug\netstandard2.0\ApexRestaurant.Repository.pdb
 D:\ruchi\ApexRestaurant\ApexRestaurant.Repository\obj\Debug\netstandard2.0\ApexRestaurant.Repository.csprojAssemblyReference.cache
 D:\ruchi\ApexRestaurant\ApexRestaurant.Repository\obj\Debug\netstandard2.0\ApexRestaurant.Repository.AssemblyInfoInputs.cache
 D:\ruchi\ApexRestaurant\ApexRestaurant.Repository\obj\Debug\netstandard2.0\ApexRestaurant.Repository.AssemblyInfo.cs
+D:\ruchi\ApexRestaurant\ApexRestaurant.Repository\bin\Debug\netstandard2.0\ApexRestaurant.Repository.deps.json
+D:\ruchi\ApexRestaurant\ApexRestaurant.Repository\bin\Debug\netstandard2.0\ApexRestaurant.Repository.dll
+D:\ruchi\ApexRestaurant\ApexRestaurant.Repository\bin\Debug\netstandard2.0\ApexRestaurant.Repository.pdb
 D:\ruchi\ApexRestaurant\ApexRestaurant.Repository\obj\Debug\netstandard2.0\ApexRestaurant.Repository.dll
 D:\ruchi\ApexRestaurant\ApexRestaurant.Repository\obj\Debug\netstandard2.0\ApexRestaurant.Repository.pdb
