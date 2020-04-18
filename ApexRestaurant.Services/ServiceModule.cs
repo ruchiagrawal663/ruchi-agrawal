@@ -14,14 +14,12 @@ namespace ApexRestaurant.Services
           public static void Register(IServiceCollection services) 
           {
                services.AddTransient<ICustomerService, CustomerService>(); 
-                services.AddTransient<IMealService, MealService>(); 
-                 services.AddTransient<IMeal_DishService, Meal_DishService>(); 
-                  services.AddTransient<IMenu_ItemService, Menu_ItemService>(); 
-                   services.AddTransient<IMenuService, MenuService>(); 
-                    services.AddTransient<IRef_Staff_RoleService, Ref_Staff_RoleService>(); 
-                     services.AddTransient<IStaffService, StaffService>(); 
-
-               
+               services.AddTransient<IMealService, MealService>(); 
+               services.AddTransient<IMeal_DishService, Meal_DishService>(); 
+               services.AddTransient<IMenu_ItemService, Menu_ItemService>(); 
+               services.AddTransient<IMenuService, MenuService>(); 
+               services.AddTransient<IRef_Staff_RoleService, Ref_Staff_RoleService>(); 
+               services.AddTransient<IStaffService, StaffService>(); 
            }
      }
 }
