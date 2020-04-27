@@ -66,5 +66,9 @@ namespace ApexRestaurant.Mvc
                 endpoints.MapRazorPages();
             });
         }
+    
+
     }
+
+   
 }

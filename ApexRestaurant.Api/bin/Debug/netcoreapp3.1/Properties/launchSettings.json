@@ -17,14 +17,30 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "ApexRestaurant.Api": {
+    "ApexRestaurant.Mvc": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "weatherforecast",
-      "applicationUrl": "https://localhost:5001;http://localhost:5000",
+      "applicationUrl": "https://localhost:9001;http://localhost:9000",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     }
-  }
-}
+  
+    {
+      "ConnectionStrings": {
+      "DefaultConnection": "DataSource=app.db"
+      },
+      "Logging": {
+      "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning",
+      "Microsoft.Hosting.Lifetime": "Information"
+      }
+      },
+      "AllowedHosts": "*",
+      "ApiBaseUrl": "https://localhost:5001/api/"
+      }
+    
+    
+  
