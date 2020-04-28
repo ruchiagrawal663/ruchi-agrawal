@@ -14,7 +14,8 @@
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
-    },
+    }
+  ,
     "ApexRestaurant.Api": {
       "commandName": "Project",
       "launchBrowser": true,
