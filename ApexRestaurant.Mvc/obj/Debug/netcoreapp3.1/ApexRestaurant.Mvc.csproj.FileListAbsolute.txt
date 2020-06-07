@@ -88,3 +88,5 @@ D:\ruchi\ApexRestaurant\ApexRestaurant.Mvc\obj\Debug\netcoreapp3.1\ApexRestauran
 D:\ruchi\ApexRestaurant\ApexRestaurant.Mvc\obj\Debug\netcoreapp3.1\ApexRestaurant.Mvc.dll
 D:\ruchi\ApexRestaurant\ApexRestaurant.Mvc\obj\Debug\netcoreapp3.1\ApexRestaurant.Mvc.pdb
 D:\ruchi\ApexRestaurant\ApexRestaurant.Mvc\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\ruchi\ApexRestaurant\ApexRestaurant.Mvc\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Create.cshtml.g.cs
+D:\ruchi\ApexRestaurant\ApexRestaurant.Mvc\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Index.cshtml.g.cs

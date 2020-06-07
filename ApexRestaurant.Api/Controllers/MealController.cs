@@ -3,7 +3,7 @@ using ApexRestaurant.Repository.Domain;
  using Microsoft.AspNetCore.Mvc;
 namespace ApexRestaurant.Api.Controller
  { 
-     [Route("api/meal")]
+     [Route("api/meals")]
       public class mealController : ControllerBase 
       {
         private readonly IMealService _mealService;
